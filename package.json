@@ -1,0 +1,30 @@
+{
+  "name": "jaspebot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./src/core/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node .",
+    "build": "npm install",
+    "dev": "nodemon --ignore ./src/contexts/* --ignore .env"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.5.0",
+    "chrome-aws-lambda": "^10.1.0",
+    "dotenv": "^16.3.1",
+    "elevenlabs-node": "^1.2.0",
+    "express": "^4.18.2",
+    "qrcode-terminal": "^0.12.0",
+    "whatsapp-web.js": "^1.22.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  },
+  "engines": {
+    "node": "14.x"
+  }
+}
