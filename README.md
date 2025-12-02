@@ -18,6 +18,8 @@ Jaspe é um chatbot desenvolvido por Tiago Cunha para ajudar os clientes da Conc
 
 - [OpenAI API](https://openai.com/)
 
+- https://platform.openai.com/api-keys
 ## Licença
 
 Este projeto está sob a licença MIT. Consulte o arquivo [LICENSE](LICENSE) para mais informações.
+
